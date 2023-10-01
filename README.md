@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### 💫 About Me:
-🔭 I’m currently working on virtual arenas and V&V techniques<br>👯 I’m looking to collaborate on game development<br>🌱 I’m currently learning ROS2, MQTT, Docker, Rust and Java. 
+🔭 I’m currently working on virtual arenas and V&V techniques<br>👯 My hobbies are experimental rocket design and game development<br>🌱 I’m currently learning ROS2, MQTT, Docker, Rust and Java. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mvccogo) 
 
